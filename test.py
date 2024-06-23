@@ -1,2 +1,0 @@
-# output hollo 
-print('hollo')
